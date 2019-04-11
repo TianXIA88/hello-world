@@ -9,4 +9,8 @@ Again!
 
 Change from the pc side.
 
+<<<<<<< HEAD
+Change from local conflict.
+=======
 Change from remote conflict.
+>>>>>>> c88ec08b48d343472ac9e19e00e9ccd6e6c67f10
